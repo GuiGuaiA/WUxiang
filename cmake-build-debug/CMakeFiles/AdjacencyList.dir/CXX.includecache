@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ClionProject/AdjacencyList/include/Arc.h
+../include/VNode.h
+E:/ClionProject/AdjacencyList/include/VNode.h
+
+E:/ClionProject/AdjacencyList/include/VNode.h
+string
+E:/ClionProject/AdjacencyList/include/string
+vector
+E:/ClionProject/AdjacencyList/include/vector
+
+E:/ClionProject/AdjacencyList/lib/Arc.cpp
+../include/Arc.h
+E:/ClionProject/AdjacencyList/include/Arc.h
+
+E:/ClionProject/AdjacencyList/lib/VNode.cpp
+../include/VNode.h
+E:/ClionProject/AdjacencyList/include/VNode.h
+utility
+-
+
+E:/ClionProject/AdjacencyList/main.cpp
+iostream
+-
+string
+E:/ClionProject/AdjacencyList/string
+vector
+E:/ClionProject/AdjacencyList/vector
+fstream
+E:/ClionProject/AdjacencyList/fstream
+./include/VNode.h
+E:/ClionProject/AdjacencyList/include/VNode.h
+./include/Arc.h
+E:/ClionProject/AdjacencyList/include/Arc.h
+algorithm
+E:/ClionProject/AdjacencyList/algorithm
+
